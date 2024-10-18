@@ -1,0 +1,6 @@
+@NaturalisBackend_HostAddress = http://localhost:5068
+
+GET {{NaturalisBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
