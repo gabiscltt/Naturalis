@@ -2990,11 +2990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeto Final ADS\\NaturalisBackend\\NaturalisBackend.csproj",
+      "projectUniqueName": "D:\\Naturalis-Backend\\NaturalisBackend\\NaturalisBackend.csproj",
       "projectName": "NaturalisBackend",
-      "projectPath": "C:\\Projeto Final ADS\\NaturalisBackend\\NaturalisBackend.csproj",
+      "projectPath": "D:\\Naturalis-Backend\\NaturalisBackend\\NaturalisBackend.csproj",
       "packagesPath": "C:\\Users\\Gabriela Sucolotti\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeto Final ADS\\NaturalisBackend\\obj\\",
+      "outputPath": "D:\\Naturalis-Backend\\NaturalisBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriela Sucolotti\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzoXN17hhXg=",
+  "dgSpecHash": "b+6GZ+lCuHg=",
   "success": true,
-  "projectFilePath": "C:\\Projeto Final ADS\\NaturalisBackend\\NaturalisBackend.csproj",
+  "projectFilePath": "D:\\Naturalis-Backend\\NaturalisBackend\\NaturalisBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriela Sucolotti\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Gabriela Sucolotti\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

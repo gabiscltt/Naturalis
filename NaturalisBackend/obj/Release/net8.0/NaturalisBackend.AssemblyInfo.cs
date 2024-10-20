@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NaturalisBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+444d4b734f1b117fffd382a46d25cb251feaeeee")]
 [assembly: System.Reflection.AssemblyProductAttribute("NaturalisBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NaturalisBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
