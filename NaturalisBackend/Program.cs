@@ -23,6 +23,7 @@ builder.Services.AddDbContext<NaturalisContext>(options =>
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<TestService>();
+builder.Services.AddScoped<ProductService>();
 
 var app = builder.Build();
 
